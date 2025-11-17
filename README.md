@@ -29,3 +29,4 @@ Based on your choice, the script checks or restarts the service.
 
 ## Purpose
 This was made as a basic Unix shell scripting project for practice/college assignment.
+<img width="1454" height="848" alt="image" src="https://github.com/user-attachments/assets/5ea4b160-99f6-49df-89d1-773a98e55c31" />
